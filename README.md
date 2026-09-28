@@ -141,22 +141,3 @@ Benchmarks from public READMEs and from [pjtunstall's multi-algorithm survey](ht
 | LIS + Turk reference | https://github.com/rfs-hybrid-42-common-core/push_swap |
 | Visualizer | https://codepen.io/ahkoh/full/bGWxmVz |
 | **TESTER** used | https://github.com/gemartin99/Push-Swap-Tester |
-
-### AI usage
-
-- AI was used as a teacher: for algorithm research and for deeply understanding their logic.
-- It was also used to create the bash file for the Valgrim test checker:
-```bash
-./valgrind_tests.sh          # default, up to 100 random
-./valgrind_tests.sh --full   # also 500 random (really slow)
-```
-
-## Project structure
-
-```
-├── Makefile
-├── push_swap.h
-├── main.c
-├── *.c
-├── ft_printf
-```
