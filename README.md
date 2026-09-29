@@ -1,6 +1,8 @@
 *This project has been created as part of the 42 curriculum by ngomez-v.*
 
-> **DISCLAIMER:** This project was built **under the old curriculum subject (valid before March 2026)**. If you are working with the new subject, check that what you find here still matches the current requirements. 
+> **DISCLAIMER:** This project was built **under the old curriculum subject (valid before March 2026)**. If you are working with the new subject, check that what you find here still matches the current requirements.
+
+> For a more complete review of this project see: [https://www.nuriagomez.dev/blog/push-swap]
 
 ## Description
 
